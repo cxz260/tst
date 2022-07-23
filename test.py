@@ -1,3 +1,4 @@
+import numpy as np
 import nni
 import torch
 from torch import nn
